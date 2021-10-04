@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Zelda",
+        "age": "19",
+        "gender": "Female"
+    },
+    {
+        "name": "Link",
+        "age": "18", 
+        "gender": "Male"
+    },
+    {
+        "name": "King Harkinian",
+        "age": "65", 
+        "gender": "Male"
+    },
+    {
+        "name": "Ganon",
+        "age": "65", 
+        "gender": "Male"
+    }, 
+    {
+        "name": "Gwonam",
+        "age": "88", 
+        "gender": "Male"
+    }
+]

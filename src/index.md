@@ -8,26 +8,35 @@ Vi kan använda 11ty för att skapa sidor från datafiler (json eller js).
 
 [11ty dokumentation](https://www.11ty.dev/docs/pages-from-data/)
 
-Data fil, ```_data/possums.json```:
+Data fil, ```_data/characters.json```:
 
 ```json
 [
-  {
-    "name": "Fluffy",
-    "age": 2
-  },
-  {
-    "name": "Snugglepants",
-    "age": 5
-  },
-  {
-    "name": "Lord Featherbottom",
-    "age": 4
-  },
-  {
-    "name": "Pennywise",
-    "age": 9
-  }
+    {
+        "name": "Zelda",
+        "age": "19",
+        "gender": "Female"
+    },
+    {
+        "name": "Link",
+        "age": "18", 
+        "gender": "Male"
+    },
+    {
+        "name": "King Harkinian",
+        "age": "65", 
+        "gender": "Male"
+    },
+    {
+        "name": "Ganon",
+        "age": "65", 
+        "gender": "Male"
+    }, 
+    {
+        "name": "Gwonam",
+        "age": "88", 
+        "gender": "Male"
+    }
 ]
 ```
 

@@ -2,26 +2,31 @@
     {
         "name": "Zelda",
         "age": "19",
-        "gender": "Female"
+        "gender": "Female",
+        "image": "/images/zelda.png"
     },
     {
         "name": "Link",
         "age": "18", 
-        "gender": "Male"
+        "gender": "Male",
+        "image": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/2/2d/TFoE_Link_Cutscene_Sprite.png/revision/latest?cb=20200905035212"
     },
     {
         "name": "King Harkinian",
         "age": "65", 
-        "gender": "Male"
+        "gender": "Male",
+        "image": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/6/6e/TFoE_King_Harkinian.png/revision/latest?cb=20200905034725"
     },
     {
         "name": "Ganon",
         "age": "65", 
-        "gender": "Male"
+        "gender": "Male",
+        "image": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/4/46/TFoE_Ganon_Cutscene_Sprite.png/revision/latest?cb=20200905230747"
     }, 
     {
         "name": "Gwonam",
         "age": "88", 
-        "gender": "Male"
+        "gender": "Male",
+        "image": "https://static.wikia.nocookie.net/zelda_gamepedia_en/images/1/15/TFoE_Gwonam.png/revision/latest?cb=20200905230711"
     }
 ]

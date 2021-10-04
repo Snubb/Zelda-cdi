@@ -1,0 +1,12 @@
+---
+layout: base.njk
+pagination:
+    data: characters
+    size: 1
+    alias: character
+permalink: "characters/{{ character.name | slug }}/"
+---
+
+<img alt="{{ character.name }}" src="{{ character.image }}">
+
+<h1>{{ character.name }} är {{ character.gender }} och är {{ character.age }} år gammal.</h1>

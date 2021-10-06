@@ -19,6 +19,10 @@
     padding: 1rem 0;
 }
 
+.char-img {
+    width: 20rem;
+}
+
 main {
     margin-top: 1rem;
 }

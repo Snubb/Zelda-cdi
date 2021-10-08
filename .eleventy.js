@@ -1,8 +1,16 @@
 const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
+const moment = require('moment');
 
 module.exports = function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy('./src/css/');
     eleventyConfig.addWatchTarget('./src/css/');
+    eleventyConfig.addPassthroughCopy("src/images");
+    eleventyConfig.addWatchTarget("src/images");
+
+    eleventyConfig.addFilter('dateFilter', (value) =>{
+        moment.locale('sv');
+        return moment(value).format('LL');
+    }) 
 
     eleventyConfig.addPlugin(syntaxHighlight);
     return {

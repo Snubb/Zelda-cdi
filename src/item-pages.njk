@@ -1,0 +1,12 @@
+---
+layout: base.njk
+pagination:
+    data: items
+    size: 1
+    alias: item
+permalink: "items/{{ item.name | slug }}/"
+---
+
+
+<h1>This is {{ item.name }}</h1>
+<p>{{ item.content }}</p>

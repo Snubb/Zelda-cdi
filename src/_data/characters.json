@@ -3,36 +3,36 @@
         "name": "Zelda",
         "age": "19",
         "gender": "female",
-        "image": "https://preview.redd.it/6sja0fs8z1y61.jpg?width=3024&format=pjpg&auto=webp&s=b59057d11dbfee4f075757bec2e7c40d5183f1b0"
+        "image": "zelda.png"
     },
     {
         "name": "Link",
         "age": "18", 
         "gender": "male",
-        "image": "https://pbs.twimg.com/media/EJLtORhXYAkJ3DX.jpg"
+        "image": "link.jpg"
     },
     {
         "name": "King Harkinian",
         "age": "65", 
         "gender": "male",
-        "image": "https://i.kym-cdn.com/entries/icons/original/000/008/711/maxresdefault.jpeg"
+        "image": "king.png"
     },
     {
         "name": "Ganon",
         "age": "65", 
         "gender": "male",
-        "image": "https://www.zeldadungeon.net/wiki/images/2/2c/Wand-of-Gamelon-Ganon-5.png"
+        "image": "ganon.png"
     }, 
     {
         "name": "Gwonam",
         "age": "88", 
         "gender": "male",
-        "image": "https://i.ytimg.com/vi/QN7n7l8aUwE/maxresdefault.jpg"
+        "image": "gwonam.png"
     },
     {
         "name": "Morshu",
-        "age": "22", 
+        "age": "35", 
         "gender": "male",
-        "image": "https://i.ytimg.com/vi/en5Kgc9Be3g/maxresdefault.jpg"
+        "image": "morshu.png"
     }
 ]

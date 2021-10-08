@@ -16,6 +16,11 @@
             <li><a href="/characters/{{ character.name | slug }}">{{ character.name }}</a></li>
         {% endfor %}
         </ul>
+        <ul class="nav">
+        {% for item in items %}
+            <li><a href="/items/{{ item.name | slug }}">{{ item.name }}</a></li>
+        {% endfor %}
+        </ul>
     </nav>
     <main class="container">
         {{ content | safe }}

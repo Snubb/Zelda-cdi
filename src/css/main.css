@@ -23,6 +23,10 @@
     width: 20rem;
 }
 
+.image-item {
+    width: 15rem;
+}
+
 main {
     margin-top: 1rem;
 }

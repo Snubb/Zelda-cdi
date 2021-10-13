@@ -1,21 +1,21 @@
 [
     {
-        "name": "master sword",
+        "name": "Master sword",
         "content": "tthis sword does lasser when fulll hp :-D",
         "image": "sword.png"
     },
     {
-        "name": "hookshot",
+        "name": "Hookshot",
         "content": "travel anywhere faasst weee",
         "image": "hookshot.jpg"
     },
     {
-        "name": "bomb",
+        "name": "Bomb",
         "content": "make boulders go booooom",
         "image": "bomb.png"
     },
     {
-        "name": "bow",
+        "name": "Bow",
         "content": "shoott people in eye big ouch",
         "image": "bow.png"
     }

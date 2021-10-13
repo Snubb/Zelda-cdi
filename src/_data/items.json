@@ -2,21 +2,49 @@
     {
         "name": "Master sword",
         "content": "tthis sword does lasser when fulll hp :-D",
-        "image": "sword.png"
+        "image": "sword.png",
+        "owner": "Link"
     },
     {
         "name": "Hookshot",
         "content": "travel anywhere faasst weee",
-        "image": "hookshot.jpg"
+        "image": "hookshot.jpg",
+        "owner": "Link"
     },
     {
         "name": "Bomb",
         "content": "make boulders go booooom",
-        "image": "bomb.png"
+        "image": "bomb.png",
+        "owner": "Morshu"
     },
     {
         "name": "Bow",
         "content": "shoott people in eye big ouch",
-        "image": "bow.png"
+        "image": "bow.png",
+        "owner": "Link"
+    },
+    {
+        "name": "Jar",
+        "content": "The only one not destroyed by Link",
+        "image": "jar.png",
+        "owner": "King Harkinian"
+    },
+    {
+        "name": "Phantom",
+        "content": "Nothing special just armor magic bro",
+        "image": "phantom.png",
+        "owner": "Zelda"
+    },
+    {
+        "name": "Six Sages Sword",
+        "content": "Actually twilight princess but don't worry about it",
+        "image": "sword-of-six-sages.png",
+        "owner": "Ganon"
+    },
+    {
+        "name": "Flying carpet",
+        "content": "Old wizard not included",
+        "image": "carpet.png",
+        "owner": "Gwonam"
     }
 ]

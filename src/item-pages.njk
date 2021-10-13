@@ -6,6 +6,7 @@ pagination:
     alias: item
 permalink: "items/{{ item.name | slug }}/"
 ---
+<a href="../../characters/{{ item.owner | lower | replace(' ', '-') }}">Back</a>
 
 
 <h1>This is {{ item.name }}</h1>

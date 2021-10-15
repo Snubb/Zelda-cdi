@@ -19,6 +19,15 @@
     padding: 1rem 0;
 }
 
+.item-nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+    padding: 1rem 0;
+}
+
 .char-img {
     width: 20rem;
 }

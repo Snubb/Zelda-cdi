@@ -16,7 +16,7 @@
             <li><a href="/characters/{{ character.name | slug }}">{{ character.name }}</a></li>
         {% endfor %}
         </ul>
-        <ul class="nav">
+        <ul class="item-nav">
         {% for item in items %}
             {% if (item.owner == character.name) %}
                 <li><a href="/items/{{ item.name | slug }}">{{ item.name }}</a></li>
@@ -25,6 +25,7 @@
         </ul>
     </nav>
     <main class="container">
+        <a href="/test">API Test</a>
         {{ content | safe }}
     </main>
     <footer class="container">

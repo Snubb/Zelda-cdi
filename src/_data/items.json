@@ -46,5 +46,11 @@
         "content": "Old wizard not included",
         "image": "carpet.png",
         "owner": "Gwonam"
+    },
+    {
+        "name": "Iron boots",
+        "content": "Just a pair of heavy boots. Try swimming :)",
+        "image": "carpet.png",
+        "owner": "Morshu"
     }
 ]

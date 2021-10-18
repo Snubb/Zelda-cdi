@@ -4,6 +4,8 @@ layout: base.njk
 
 # Skapa sidor från data
 
+# Vad är det här för sida? Jag vet ej
+
 Vi kan använda 11ty för att skapa sidor från datafiler (json eller js).
 
 [11ty dokumentation](https://www.11ty.dev/docs/pages-from-data/)
